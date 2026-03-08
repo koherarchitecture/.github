@@ -62,4 +62,4 @@ Each tool README includes a link to try it online (verify email) or run locally.
 
 ---
 
-*Co-created by [Prayas Abhinav](https://prayasabhinav.net) + [Claude Code](https://claude.ai/code)*
+*Co-created by [Prayas Abhinav](https://prayasabhinav.net) + [Claude Code](https://github.com/claude-code)*
