@@ -24,6 +24,7 @@ Small tools demonstrating the architecture. Released quarterly — each grounded
 
 | Tool | What It Does | Released |
 |------|-------------|----------|
+| [Play Shape Diagnostic](https://github.com/koherarchitecture/play-shape-diagnostic) | Analyse experiential qualities of play concepts | February 2026 |
 | [Coherence Diagnostic](https://github.com/koherarchitecture/coherence-diagnostic) | Analyse design concepts for coherence | February 2026 |
 
 Each tool README includes a link to try it online (verify email) or run locally.
